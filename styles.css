@@ -584,6 +584,9 @@ main #feature .feature-body {
         gap: 20px;
         margin-bottom: 20px;
     }
+    main .feature-header {
+        text-align: center;
+    }
 }
 @media screen and (max-width: 450px){
     main #feature .box-container .box{
